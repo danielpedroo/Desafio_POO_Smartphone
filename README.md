@@ -31,4 +31,4 @@ O sistema deve ser implementado em .NET e ter uma estrutura de classes de acordo
 ## Implementação da Solução
 O código está pela metade, e você deverá dar continuidade obedecendo às regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
 
-O código-fonte e as instruções detalhadas podem ser encontrados [aqui]((https://github.com/digitalinnovationone/trilha-net-poo-desafio)https://github.com/digitalinnovationone/trilha-net-poo-desafio)).
+O código-fonte e as instruções detalhadas podem ser encontrados [aqui](https://github.com/digitalinnovationone/trilha-net-poo-desafio).
